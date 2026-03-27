@@ -36,11 +36,11 @@ This dashboard provides insights into Blinkit's grocery sales performance, inclu
 #### Blinkit_Bi.pbix (Power BI Dashboard)
 ####  BlinkIT Grocery Data.xlsx (Dataset)
 
-##🚀 Insights Gained
+## 🚀 Insights Gained
 #### Identified top-selling categories
 #### Found high-performing outlets
 #### Analyzed customer demand trends
-##📎 How to Use
+## 📎How to Use
 #### Open the .pbix file in Power BI Desktop
 #### Explore visuals using filters
 #### Analyze trends and insights
