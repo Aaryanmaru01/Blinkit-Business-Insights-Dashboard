@@ -19,7 +19,7 @@ This dashboard provides insights into Blinkit's grocery sales performance, inclu
 #### Item Categories
 #### Outlet Performance
 
-##📈 Dashboard Features
+## 📈 Dashboard Features
 #### Sales by Outlet Type
 #### Sales by Item Category
 #### Location-based analysis
