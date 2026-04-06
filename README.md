@@ -44,3 +44,15 @@ This dashboard provides insights into Blinkit's grocery sales performance, inclu
 #### Open the .pbix file in Power BI Desktop
 #### Explore visuals using filters
 #### Analyze trends and insights
+
+## 🗄 SQL Analysis (Added)
+
+### This project also includes SQL queries used to extract and analyze key business insights from the dataset.
+
+##🔍 Key SQL Insights
+#### Calculated Total Sales, Average Sales, Total Items, and Average Rating
+#### Analyzed sales by item type and fat content
+#### Compared outlet performance based on sales and ratings
+#### Evaluated sales trends by outlet establishment year
+#### Measured percentage contribution of sales by outlet size
+#### Performed location-based sales analysis
