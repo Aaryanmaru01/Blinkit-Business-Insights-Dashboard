@@ -49,7 +49,7 @@ This dashboard provides insights into Blinkit's grocery sales performance, inclu
 
 ### This project also includes SQL queries used to extract and analyze key business insights from the dataset.
 
-##🔍 Key SQL Insights
+## 🔍 Key SQL Insights
 #### Calculated Total Sales, Average Sales, Total Items, and Average Rating
 #### Analyzed sales by item type and fat content
 #### Compared outlet performance based on sales and ratings
